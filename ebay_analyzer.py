@@ -1,9 +1,8 @@
 # File: ebaySniper.py
 # Author : Vincent Fedetz
 # What it does: Determine the lowest BiN for a card
-# Select active auctions currently less than lowest BiN
+# Select active auctions currently less than lowest BiN -20%
 # Select the auction ending soonest
-# Initialize bot to place bid on item for BiN Low -20% right before end_time
 
 import sys
 from ebaysdk.finding import Connection as Finding
