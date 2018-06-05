@@ -1,4 +1,4 @@
-# File: ebaySniper.py
+# File: ebay_analyzer.py
 # Author : Vincent Fedetz
 # What it does: Determine the lowest BiN for a card
 # Select active auctions currently less than lowest BiN -20%
